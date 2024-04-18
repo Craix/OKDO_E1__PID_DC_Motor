@@ -4,7 +4,7 @@ Module info: <br>
 LCD 128 x 160 SPI ST7735S <br>
 H-BRIDGE TB6612FNG <br>
 Incremental Encoder 20 Pulse / 360* <br>
-N20 DC MOTOR 100RPM 1:298 
+N20 DC MOTOR 100RPM 1:298 12V
 
 Connection schematic: <br>
 TFT (FLXC_8  - SPI)
